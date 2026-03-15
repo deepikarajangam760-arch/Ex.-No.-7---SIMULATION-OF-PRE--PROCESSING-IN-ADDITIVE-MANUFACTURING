@@ -45,8 +45,16 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Output](DIA1.png)
+
+![Output](DIA2.png)
+
+![Output](DIA3.png)
+
+
+
+### Name: R.DEEPIKA
+### Register Number: 212225230046
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
