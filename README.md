@@ -45,11 +45,8 @@
 
 ## Output:
 
-![Output](DIA1.png)
+![Output](PRE.png)
 
-![Output](DIA2.png)
-
-![Output](DIA3.png)
 
 
 
